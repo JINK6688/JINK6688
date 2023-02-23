@@ -2,7 +2,6 @@
 
 [![JINK6688's github stats](https://github-readme-stats.vercel.app/api?username=JINK6688&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINK6688&langs_count=15&hide=c,html,makefile,assembly)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JINK6688)](https://github.com/anuraghazra/github-readme-stats)
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
